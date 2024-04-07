@@ -1,0 +1,1 @@
+../../../.git/annex/objects/M6/kZ/SHA256E-s302--4c922fad90ff074e81dc8cc096d31f91ee912119385796713b5da26fd02dadf2.cls/SHA256E-s302--4c922fad90ff074e81dc8cc096d31f91ee912119385796713b5da26fd02dadf2.cls

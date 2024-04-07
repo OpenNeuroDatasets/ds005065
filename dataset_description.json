@@ -1,0 +1,26 @@
+{
+	"Authors":[
+		"Evan M. Russek",
+		"Rani Moran",
+		"Yunzhe Liu",
+		"Ray Dolan",
+		"Quentin Huys"
+	],
+	"BIDSVersion":"v1.5.0",
+	"DatasetType":"raw",
+	"EthicsApprovals":[
+		"UCL ethics board (ID: 9929/002)"
+	],
+	"GeneratedBy":[
+		{
+			"Name":"FieldTrip",
+			"Version":"unknown",
+			"Description":"data2bids converter",
+			"URI":"https://www.fieldtriptoolbox.org"
+		}
+	],
+	"Name":"Heuristics in risky decision-making relate to preferential representation of information MEG data",
+	"ReferencesAndLinks":[
+		"https://osf.io/preprints/psyarxiv/kb6ew"
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"ContinuousHeadLocalization":true,
+	"DewarPosition":"n/a",
+	"DigitizedHeadPoints":false,
+	"DigitizedLandmarks":false,
+	"InstitutionName":"University College London",
+	"InstitutionalDepartmentName":"Max Planck Centre for Computational Psychiatry and Ageing Research",
+	"MEGChannelCount":272,
+	"MEGREFChannelCount":29,
+	"Manufacturer":"CTF",
+	"ManufacturersModelName":"CTF-275",
+	"PowerLineFrequency":50,
+	"RecordingDuration":900,
+	"SamplingFrequency":1200,
+	"SoftwareFilters":"n/a",
+	"TaskName":"RiskyDecision",
+	"TriggerChannelCount":2
+}
