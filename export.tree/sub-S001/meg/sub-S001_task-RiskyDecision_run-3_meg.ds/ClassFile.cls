@@ -1,0 +1,1 @@
+../../../.git/annex/objects/w5/Wq/SHA256E-s302--50e35ae1d536fd90e3bf23ebd86a3bf57bbdc1158792945417ec7932159c73bb.cls/SHA256E-s302--50e35ae1d536fd90e3bf23ebd86a3bf57bbdc1158792945417ec7932159c73bb.cls

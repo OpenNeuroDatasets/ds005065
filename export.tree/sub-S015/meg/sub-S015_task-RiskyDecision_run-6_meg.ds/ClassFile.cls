@@ -1,0 +1,1 @@
+../../../.git/annex/objects/vQ/X7/SHA256E-s302--5033f487553f82cd8cbac532dcc288b0cc61e292f439cf42fbad9ba982daa323.cls/SHA256E-s302--5033f487553f82cd8cbac532dcc288b0cc61e292f439cf42fbad9ba982daa323.cls

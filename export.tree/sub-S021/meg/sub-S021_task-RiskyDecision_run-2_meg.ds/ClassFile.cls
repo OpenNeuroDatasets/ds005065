@@ -1,0 +1,1 @@
+../../../.git/annex/objects/Qk/XW/SHA256E-s302--f7aa0b83ef9348e30b3feeab3c7cdcc19c6b0f035f2d6266364e8e75bffce369.cls/SHA256E-s302--f7aa0b83ef9348e30b3feeab3c7cdcc19c6b0f035f2d6266364e8e75bffce369.cls

@@ -1,0 +1,1 @@
+../../../.git/annex/objects/pg/g4/SHA256E-s302--f072bd0c88bbe9173589ff636b9f5fc5db329c2abb6b7c9f8e9b1d84fd8a47fe.cls/SHA256E-s302--f072bd0c88bbe9173589ff636b9f5fc5db329c2abb6b7c9f8e9b1d84fd8a47fe.cls
